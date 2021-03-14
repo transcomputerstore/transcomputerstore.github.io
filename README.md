@@ -1,1 +1,0 @@
-# transcomputerstore.github.io
