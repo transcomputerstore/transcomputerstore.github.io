@@ -1,0 +1,7 @@
+body{background: yellow;}
+h1{text-align:center;}
+h3{text-align:center;}
+h4{text-align:center;}
+p{text-align:center;}
+li{text-align:center;}
+a.button{font-weight: 700;color: white;text-decoration: none;padding: 10px 10px 10px;border-radius: 15px;background: green;}
